@@ -1,7 +1,7 @@
 import React from "react";
 import Imageforlinkedin from "../assets/Image for linkedin.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import { Link, Element } from "react-scroll";
+import { Link} from "react-scroll";
 
 const Home = () => {
   return (
