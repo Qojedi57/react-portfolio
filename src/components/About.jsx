@@ -18,7 +18,7 @@ const About = () => {
 
         <p className="text-xl mt-20">
         I'm very ambitious front-end developer looking for a role in established IT company
-        with the opportunity to work with the latest technologies on challenging and diverse projects. I'm quitely confident, naturally curious, and perpetually working on imporving my tech skills one design problem at a time. If I need to define myself in one sentence that would be a family person, my interests are finance,music,obsessed with tech!, sports fanantic, and health I love connecting with other people.
+        with the opportunity to work with the latest technologies on challenging and diverse projects. I'm quitely confident, naturally curious, and perpetually working on improving my tech skills one design problem at a time. If I need to define myself in one sentence that would be a family person, my interests are finance,music,obsessed with tech!, sports fanantic, and health I love connecting with other people.
         </p>
 
         <br />
