@@ -41,7 +41,7 @@ const Home = () => {
             flex items-center rounded-md bg-gradient-to-r
             from-cyan-500 to-blue-500 cursor-pointer"
             >
-              <a href="#projects">Projects</a>
+              <span>Projects</span>
               <span className="group-hover:rotate-90 duration-300">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>

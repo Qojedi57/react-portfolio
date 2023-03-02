@@ -73,12 +73,20 @@ const NavBar = () => {
              from-black to-gray-800 text-gray-500"
         >
           {links.map(({ id, link }) => (
+             <Link  activeClass="active"
+             to={link}
+             spy={true}
+             smooth={true}
+             offset={50}
+             duration={500} onClick={() => setNav(!nav)}>
             <li
+
               key={id}
               className="px-4 cursor-pointer capitalize py-6text-4xl"
             >
-              {link}
+           {link} 
             </li>
+            </Link>
           ))}
         </ul>
       )}
