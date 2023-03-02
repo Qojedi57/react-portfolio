@@ -8,7 +8,7 @@ const Projects = () => {
     {
       id: 1,
       src: reactbooksapp,
-      demoLink:"https://vercel.com/qojedi57/reactproject-booksapp-ihd4",
+      demoLink:"https://reactproject-booksapp-ihd4.vercel.app/",
       codeLink:"https://github.com/Qojedi57/reactproject-booksapp",
     },
     {
