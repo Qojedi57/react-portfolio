@@ -6,7 +6,7 @@ import github from "../assets/github.png";
 import node from "../assets/node.png";
 import git from "../assets/git.png";
 import tailwind from "../assets/tailwind.png";
-import reactImage from "../assets/reactImage.png";
+import reactImage from "../assets/reactImage.png"
 
 const Skills = () => {
   const techs = [

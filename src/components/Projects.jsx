@@ -24,7 +24,7 @@ const Projects = () => {
     <div id="projects"
       name="projects"
       className="bg-gradient-to-b from-black to-gray-800 w-full 
-    text-white md:h-screen"
+    text-white md:pb-0 pb-[30%]"
     >
       <div
         className="max-w-screen-lg p-4 mx-auto flex flex-col
