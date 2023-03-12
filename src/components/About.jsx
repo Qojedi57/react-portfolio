@@ -5,9 +5,9 @@ const About = () => {
   <div 
   name="about"
    className="w-screen h-screen bg-gradient-to-b from-gray-800 
-  to-black text-white md:pb-0 pb-[30%]"
+ to-black text-white pt-60"
   >
-    <div className="max-w-screen-lg p-4 mx-auto flex flex-col 
+    <div className="max-w-screen-lg pt-20 mx-auto flex flex-col 
     justify-center w-full h-full">
         <div className="pb-8">
             <p className="text-4xl font-bold inline border-b-4 
@@ -23,7 +23,7 @@ const About = () => {
 
         <br />
 
-        <p className="text-xl">
+        <p className="text-xl pb-60">
            I'm a fellow with the Knowledge House in the Web Development Track acquiring skills in front-end technologies 
             as well as the back-end. To databses with Prisma and testing with postman to creating API app projects as well to deploy familiarity with railway,vercel, and netlify to successfully having my projects deployed.
         </p>

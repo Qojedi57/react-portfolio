@@ -17,7 +17,7 @@ const Home = () => {
         <div className="flex flex-col justify-center h-full">
           <h2
             className="text-4xl sm:text-7xtl font-bold
-          text-white"
+          text-white pt-24"
           >
             I'm a Full Stack Developer
           </h2>
