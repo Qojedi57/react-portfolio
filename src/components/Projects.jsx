@@ -1,6 +1,7 @@
 import React from "react";
 import connect4game from "../assets/connect 4 game.png";
 import reactbooksapp from "../assets/react books app.png";
+import InventGenieapp from "../assets/InventGenieapp.png";
 import { Link, Element } from "react-scroll";
 
 const Projects = () => {
@@ -17,6 +18,12 @@ const Projects = () => {
       demoLink:"https://eclectic-tanuki-5d58fc.netlify.app/",
       codeLink:"https://github.com/Qojedi57/connect4-game",
     },
+    {
+      id: 3,
+      src: InventGenieapp,
+      demoLink:"https://capstone-group-3-imkewlhuh.vercel.app/home",
+      codeLink:"https://github.com/imkewlhuh/Capstone-Group-3",
+    }
   ];
 
   return (
