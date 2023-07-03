@@ -2,6 +2,7 @@ import React from "react";
 import connect4game from "../assets/connect 4 game.png";
 import reactbooksapp from "../assets/react books app.png";
 import InventGenieapp from "../assets/InventGenieapp.png";
+import Phase2FinalProject from "../assets/Phase2FinalProject.png"
 import { Link, Element } from "react-scroll";
 
 const Projects = () => {
@@ -23,6 +24,12 @@ const Projects = () => {
       src: InventGenieapp,
       demoLink:"https://capstone-group-3-imkewlhuh.vercel.app/home",
       codeLink:"https://github.com/imkewlhuh/Capstone-Group-3",
+    },
+    {
+    id: 4,
+    src: Phase2FinalProject,
+    demoLink: "https://tkh-phase-two-final-project.vercel.app/login",
+    codeLink: "https://github.com/Qojedi57/TKH-Phase-Two-Final-Project",
     }
   ];
 
