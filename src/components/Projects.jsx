@@ -28,7 +28,7 @@ const Projects = () => {
     {
     id: 4,
     src: Phase2FinalProject,
-    demoLink: "https://tkh-phase-two-final-project.vercel.app/login",
+    demoLink: "https://tkh-phase-two-final-project.vercel.app/",
     codeLink: "https://github.com/Qojedi57/TKH-Phase-Two-Final-Project",
     }
   ];
