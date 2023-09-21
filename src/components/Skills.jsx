@@ -8,7 +8,7 @@ import git from "../assets/git.png";
 import tailwind from "../assets/tailwind.png";
 import reactImage from "../assets/reactImage.png"
 import nextjs from "../assets/nextjs.png"
-import mysql from "../assets/mySQL.png"
+import mysql from "../assets/mysql.png"
 
 const Skills = () => {
   const techs = [
