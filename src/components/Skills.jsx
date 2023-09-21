@@ -7,6 +7,8 @@ import node from "../assets/node.png";
 import git from "../assets/git.png";
 import tailwind from "../assets/tailwind.png";
 import reactImage from "../assets/reactImage.png"
+import nextjs from "../assets/nextjs.png"
+import mysql from "../assets/mySQL.png"
 
 const Skills = () => {
   const techs = [
@@ -57,6 +59,18 @@ const Skills = () => {
   src: reactImage,
   title: "React",
   style: "shadow-blue-600",
+},
+{
+  id: 9,
+  src: nextjs,
+  title: "Next JS",
+  style: "shadow-white",
+},
+{
+  id: 10,
+  src: mysql,
+  title: "MySQL",
+  style: "shadow-pink-400",
 },
   ];
 
