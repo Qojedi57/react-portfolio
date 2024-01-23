@@ -24,7 +24,7 @@ const About = () => {
         <br />
 
         <p className="text-xl pb-60">
-           I'm a fellow with the Knowledge House in the Web Development Track acquiring skills in front-end technologies 
+           I'm a graduate with the Knowledge House in the Web Development Track acquiring skills in front-end technologies 
             as well as the back-end. To databses with Prisma and testing with postman to creating API app projects as well to deploy familiarity with railway,vercel, and netlify to successfully having my projects deployed.
         </p>
     </div>
